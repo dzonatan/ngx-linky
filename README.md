@@ -33,7 +33,7 @@ Use **linky** pipe with **[innerHTML]** (or outerHTML, depends on you) binding t
 
 You can pass any [autolinker option](https://github.com/gregjacobs/Autolinker.js#options) as a second pipe argument. For ex.:
 
-`<span [innerHTML]="myText | linky:{newWindow: false}"></span>`
+`<span [innerHTML]="myText | linky:[{newWindow: false, twitter: false}]"></span>`
 
 ## License
 MIT
