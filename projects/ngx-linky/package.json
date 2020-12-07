@@ -1,6 +1,6 @@
 {
   "name": "ngx-linky",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "description": "Angular pipe to find links in text input and turn them into html links",
   "keywords": [
     "angular",
