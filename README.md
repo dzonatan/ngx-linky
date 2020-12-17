@@ -1,6 +1,6 @@
 # ngx-linky
 
-[![Build Status](https://travis-ci.org/dzonatan/ngx-linky.svg?branch=master)](https://travis-ci.org/dzonatan/ngx-linky)
+![CI](https://github.com/dzonatan/ngx-linky/workflows/CI/badge.svg)
 [![npm version](https://badge.fury.io/js/ngx-linky.svg)](https://badge.fury.io/js/ngx-linky)
 
 **Angular** pipe to find links in text input and turn them into html links. It was called the same "linky" in **ngSanitize** module of **AngularJs (first)**. Since **Angular** does not have such pipe built in therefore this repo was created.
