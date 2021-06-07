@@ -10,7 +10,7 @@ This is just a wrapper for [Autolinker.js](https://github.com/gregjacobs/Autolin
 
 ## Installation
 
-`npm install --save ngx-linky`
+`npm install --save ngx-linky autolinker`
 
 Import `LinkyModule` or manually declare `LinkyPipe` in your app module.
 ```ts
