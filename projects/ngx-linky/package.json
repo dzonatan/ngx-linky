@@ -19,8 +19,8 @@
     "url": "git+https://github.com/dzonatan/ngx-linky.git"
   },
   "peerDependencies": {
-    "@angular/common": ">=10.0.0",
-    "@angular/core": ">=10.0.0",
+    "@angular/common": ">=12.0.0",
+    "@angular/core": ">=12.0.0",
     "autolinker": ">=3.0.0"
   }
 }
